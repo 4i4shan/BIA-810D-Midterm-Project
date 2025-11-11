@@ -21,7 +21,6 @@
 3.  [Key Business Questions & Findings](#-key-business-questions--findings)
 4.  [Extra Credit Analysis](#-extra-credit-analysis)
 5.  [Technical Requirements](#-technical-requirements)
-6.  [How to Run](#-how-to-run)
 
 ## 💾 Data Sources
 
@@ -81,14 +80,3 @@ The notebook was written in Python 3 and relies on the following core libraries:
 * `pandas`
 * `numpy`
 * `matplotlib`
-
-## 🚀 How to Run
-
-1.  Clone this repository to your local machine.
-2.  Place the required `.csv` data files (listed under [Data Sources](#-data-sources)) in the root directory.
-3.  Install the required libraries:
-    ```bash
-    pip install pandas numpy matplotlib jupyterlab
-    ```
-4.  Launch Jupyter and open the `Mid-Term_Project_Ishaan_Nakhare.ipynb` file.
-5.  Run all cells to reproduce the analysis and visualizations.

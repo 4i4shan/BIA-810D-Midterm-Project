@@ -1,12 +1,5 @@
-# BIA-810D: Commercial Analytics Midterm Project
+# BIA-810: Healthcare Analytics Midterm Project
 **Author: Ishaan Nakhare**
-
-![Python](https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python)
-![Pandas](https://img.shields.io/badge/Pandas-blue?style=for-the-badge&logo=pandas)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-grey?style=for-the-badge&logo=matplotlib)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
-
----
 
 ## 📜 Project Objective
 

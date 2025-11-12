@@ -3,7 +3,7 @@
 
 ## 📜 Project Objective
 
-This repository contains the solution for the BIA-810D Midterm Exam[cite: 2]. [cite_start]The objective is to act as a member of a Commercial Analytics team for a pharmaceutical company, analyzing the Syntegra Medicare CCLF Claims dataset.
+This repository contains the solution for the BIA-810D Midterm Exam. The objective is to act as a member of a Commercial Analytics team for a pharmaceutical company, analyzing the Syntegra Medicare CCLF Claims dataset.
 
 The analysis provides insights into the Cardio Vascular Metabolic (CVM) disease landscape [cite: 11] [cite_start]to inform the decision-making and strategy development of the CVM Sales & Marketing leadership team.
 
